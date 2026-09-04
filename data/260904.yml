@@ -7,7 +7,7 @@ about:
   head: 322b1b2
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:37:25Z
+  collectedAt: 2026-09-04T20:52:54Z
 timeline:
   created: 2010-03-22
   lastCommit: 2026-05-25
@@ -58,7 +58,7 @@ recent:
     openPR: 1
     closedIssue: 3
     openIssue: 0
-    commit: 0
+    commit: 10
   last360d:
     since: 2025-09-09
     release: 0
@@ -66,7 +66,7 @@ recent:
     openPR: 1
     closedIssue: 4
     openIssue: 0
-    commit: 0
+    commit: 13
   last720d:
     since: 2024-09-14
     release: 0
@@ -83,6 +83,49 @@ total:
   openIssue: 61
   commit: 1456
 ---
+path: /home/runner/.x-repo/github.com/jakejs/jake
+collectedAt: 2026-09-04T20:52:54Z
+loc:
+  JavaScript:
+    code: 4285
+    comments: 1318
+    blanks: 796
+    files: 39
+  Json:
+    code: 44
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 32
+    comments: 8
+    blanks: 7
+    files: 2
+  Makefile:
+    code: 21
+    comments: 16
+    blanks: 7
+    files: 1
+  Batch:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 627
+    blanks: 272
+    files: 3
+  Text:
+    code: 0
+    comments: 15
+    blanks: 2
+    files: 1
+total:
+  code: 4749
+  comments: 2020
+  blanks: 1106
+  files: 48
 ---
 date: "2026-08-24"
 repo:
