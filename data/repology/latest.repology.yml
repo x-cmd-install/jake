@@ -1,0 +1,135 @@
+- repo: nix_stable_24_11
+  srcname: jake
+  visiblename: jake
+  version: 10.9.1
+  origversion: null
+  status: outdated
+  summary: JavaScript build tool, similar to Make or Rake
+  maintainers:
+    - jcarr250@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: jake
+  binname: jake
+  visiblename: jake
+  version: 12.10.1
+  origversion: 12.10.1-1
+  status: newest
+  summary: JavaScript build tool, similar to Make or Rake
+  licenses:
+    - Apache-2.0
+- repo: macports
+  srcname: devel/jake
+  binname: jake
+  visiblename: jake
+  version: 10.9.4
+  origversion: null
+  status: outdated
+  summary: JavaScript build tool for Node.js, similar to make or rake
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - Apache-2
+  categories:
+    - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: jake
+  binname: jake
+  visiblename: jake
+  version: 12.10.1
+  origversion: 12.10.1-1
+  status: newest
+  summary: JavaScript build tool, similar to Make or Rake
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: jake
+  binname: jake
+  visiblename: jake
+  version: 12.10.1
+  origversion: 12.10.1-1
+  status: newest
+  summary: JavaScript build tool, similar to Make or Rake
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: jake
+  binname: jake
+  visiblename: jake
+  version: 12.10.1
+  origversion: 12.10.1-1
+  status: newest
+  summary: JavaScript build tool, similar to Make or Rake
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: jake
+  visiblename: jake
+  version: 10.8.7
+  origversion: null
+  status: outdated
+  summary: JavaScript build tool, similar to Make or Rake
+  maintainers:
+    - jcarr250@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: jake
+  visiblename: jake
+  version: 10.9.1
+  origversion: null
+  status: outdated
+  summary: JavaScript build tool, similar to Make or Rake
+  maintainers:
+    - jcarr250@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: jake
+  visiblename: jake
+  version: 10.9.1
+  origversion: null
+  status: outdated
+  summary: JavaScript build tool, similar to Make or Rake
+  maintainers:
+    - jcarr250@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: jake
+  visiblename: jake
+  version: 10.9.1
+  origversion: null
+  status: outdated
+  summary: JavaScript build tool, similar to Make or Rake
+  maintainers:
+    - jcarr250@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: jake
+  visiblename: jake
+  version: 10.9.1
+  origversion: null
+  status: outdated
+  summary: JavaScript build tool, similar to Make or Rake
+  maintainers:
+    - jcarr250@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: jake
+  binname: jake
+  visiblename: jake
+  version: 12.10.1
+  origversion: 12.10.1-1
+  status: newest
+  summary: JavaScript build tool, similar to Make or Rake
+  licenses:
+    - Apache-2.0
