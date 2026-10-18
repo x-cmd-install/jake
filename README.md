@@ -14,11 +14,11 @@ x install jake
 
 ## Code insight
 
-Total: **4,526** lines of code across **44** files in the top 5 languages.
+Total: **4,569** lines of code across **44** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 4,427 | 1,341 | 807 | 39 |
+| JavaScript | 4,470 | 1,345 | 812 | 39 |
 | Json | 44 | 0 | 0 | 1 |
 | Sh | 32 | 8 | 7 | 2 |
 | Makefile | 21 | 16 | 7 | 1 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 121 · **Open PRs**: 14 · **Closed issues**: 208 · **Open issues**: 61 · **Commits**: 1461
+- **Releases**: 0 · **Merged PRs**: 121 · **Open PRs**: 14 · **Closed issues**: 208 · **Open issues**: 61 · **Commits**: 1464
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 5 |
-| 90d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last180d | 2026-04-20 | 0 | 0 | 0 | 1 | 0 | 7 |
-| 360d | 2025-10-22 | 0 | 1 | 1 | 4 | 0 | 18 |
-| last720d | 2024-10-27 | 0 | 3 | 1 | 5 | 1 | 26 |
+| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-21 | 0 | 0 | 0 | 1 | 0 | 0 |
+| 360d | 2025-10-23 | 0 | 1 | 1 | 4 | 0 | 0 |
+| last720d | 2024-10-28 | 0 | 3 | 1 | 5 | 1 | 29 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for jake lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:33:13Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:42:16Z._
